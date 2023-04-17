@@ -9,9 +9,3 @@ bundle init
 bundle install --path vendor/bundle
 bundle exec rails new .
 ```
-
-```bash
-cd hello
-bundle install --path vendor/bundle
-bundle exec rails new .
-```
