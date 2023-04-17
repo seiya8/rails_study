@@ -1,5 +1,5 @@
 # rails_study
-railsの勉強
+railsチュートリアル
 
 (自分用メモ)
 ```bash
