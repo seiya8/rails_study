@@ -7,5 +7,5 @@ cd hello
 bundle init
 # Gemfileの# gem 'rails'のコメントを外す
 bundle install --path vendor/bundle
-bundle exec rails new .
+bundle exec rails new . --database=mysql
 ```
